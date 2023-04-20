@@ -1,2 +1,2 @@
-# Aishas-Greetings-Codecademy-Solution
-The solution to the Aisha's Greetings Project in Codecademy
+# Aisha's Greetings
+This is the solution I came up with for Aisha's Greetings on Codecademy.
